@@ -1,0 +1,8 @@
+{
+  "name": "cordova-swift3-plugin-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cloudpack/cordova-swift3-plugin-example.git",
+  "author": "n-futagami <n-futagami@cloudpack.jp>",
+  "license": "MIT"
+}
